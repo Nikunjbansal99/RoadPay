@@ -1,0 +1,114 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<SCRIPT LANGUAGE="JavaScript">
+function dil(form)
+{
+  for(var i=0; i<3; i++)
+   {
+        if(!isNaN(form.elements[i].value))
+		{
+		   alert("Filling all fields is mandatory")
+		   form.elements[i].value=""	
+		   form.elements[i].focus()
+		   return false
+		}
+   } 
+    if(document.F1.password.value!=document.F1.repassword.value)
+    {
+	   alert("Passwords don't match!"); 
+	   document.F1.repassword.value=""
+	   document.F1.repassword.focus()	
+	   return false
+	}
+	
+	
+	if(!isNaN(document.F1.phone.value))
+   {
+	   if(document.F1.phone.value >9999999999 || document.F1.phone.value < 0000000001  )
+	   {
+		 alert("Invalid Number")
+		 document.F1.phone.value=""
+		 document.F1.phone.focus()
+         return false   
+	   }
+   }
+   
+	
+
+   
+   
+   
+
+   for(var i=0; i<form.elements.length; i++)
+   {
+		if(form.elements[i].value == "")
+		{
+		   alert("Fill out all Fields")
+		   document.F1.username.focus()
+		   return false
+		}
+   }
+
+   
+
+   return true   
+   }
+</SCRIPT>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>RoadPay</title>
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+function ctck()
+{
+var sds = document.getElementById("dum");
+
+}
+</script>
+
+</head>
+
+<body>
+  <main id="main-holder">
+            <div class="logo"><h1 id="login-header">Sign up</h1></div>
+    
+    <div class="content">
+   <form id="login-form" name=F1 method="post" onSubmit="return dil(this)" action="UserVerify">
+      <input type="text" name="firstname" id="firstname-field" class="login-form-field" placeholder="First name">
+      <input type="text" name="lastname" id="lastname-field" class="login-form-field" placeholder="Last name">
+      <input type="text" name="address" id="address-field" class="login-form-field" placeholder="Address">
+      <input type="number" name="phone" id="contact-field" class="login-form-field" placeholder="Contact number">
+      <input type="email" name="email" id="email-field" class="login-form-field" placeholder="Email ID">
+      <input type="number" name="aadhar" id="aadhar-field" class="login-form-field" placeholder="Aadhar number">
+      <input type="text" name="rcnum" id="rcnum-field" class="login-form-field" placeholder="Vehicle Registration number">
+      <input type="password" name="password" id="password-field" class="login-form-field" placeholder="Password">
+      <input type="password" name="repassword" id="password-field" class="login-form-field" placeholder="Confirm password">
+     
+      
+      
+      <input type="submit" value="Submit" id="login-form-submit">
+      <p>Already have an account? <a class="createLink" href="index.html" >Login.</a>
+    </form>
+  
+
+            <img class="login-img-im" src="images/signup.png" alt="signup">
+                
+        
+  </div>
+  </main>
+
+			
+			
+	
+
+
+<script type="text/javascript">
+document.onload = ctck();
+</script>
+
+
+</body>
+</html>
+
