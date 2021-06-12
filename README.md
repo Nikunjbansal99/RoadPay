@@ -25,15 +25,37 @@
 
 # Methodology
 <p float="left">
- <img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/Methodology.PNG" width="300" height="300" />
+ <img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/Methodology.PNG" width="330" height="300" />
 </p>
 ● The methodology which we used is Agile Development. <br>
 ● This method is an iterative and incremental method in which the complete development of the application will be divided into sub tasks and each task will be considered as a small project in itself, i.e. fulfilling the objectives.<br>
 
 # Screenshots 
 <p float="left">
- <img src="https://github.com/Nikunjbansal99/RoadPay/blob/master/Capture2.JPG" width="250" height="400" />
+ <img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2.PNG"/>
+<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (1).PNG"/>
+<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (2).PNG"/>
+<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (3).PNG"/>
+<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (4).PNG"/>
+<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (5).PNG"/>
+<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (6).PNG"/>
+<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (7).PNG"/>
+<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (8).PNG"/>
+<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (9).PNG"/>
+<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (10).PNG"/>
+<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (11).PNG"/>
+<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (12).PNG"/>
+<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (13).PNG"/>
+<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (14).PNG"/>
+<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (15).PNG"/>
+<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (16).PNG"/>
+<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (17).PNG"/>
+<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (18).PNG"/>
 </p>
+
+
+
+
 
 # References
 [1] F. Don, “Electronic Toll Collection: An Introduction and Brief Look at Potential Vulnerabilities,” in SANS Institute infoSec Reading Room, 1.4b ed. 2004. https://www.researchgate.net/publication/269750843_Gateless_Electronic_Toll_Collection_using_RFID<br>
