@@ -24,8 +24,8 @@
 ● JSP<br>
 
 # Methodology
-<p float="center">
- <img src="https://github.com/Nikunjbansal99/RoadPay/blob/master/Methodology.png" width="300" height="300" />
+<p float="left">
+ <img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/Methodology.PNG" width="300" height="300" />
 </p>
 ● The methodology which we used is Agile Development. <br>
 ● This method is an iterative and incremental method in which the complete development of the application will be divided into sub tasks and each task will be considered as a small project in itself, i.e. fulfilling the objectives.<br>
