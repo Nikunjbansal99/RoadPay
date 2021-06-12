@@ -32,25 +32,25 @@
 
 # Screenshots 
 <p float="left">
- <img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2.PNG"/>
-<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (1).PNG"/>
-<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (2).PNG"/>
-<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (3).PNG"/>
-<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (4).PNG"/>
-<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (5).PNG"/>
-<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (6).PNG"/>
-<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (7).PNG"/>
-<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (8).PNG"/>
-<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (9).PNG"/>
-<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (10).PNG"/>
-<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (11).PNG"/>
-<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (12).PNG"/>
-<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (13).PNG"/>
-<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (14).PNG"/>
-<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (15).PNG"/>
-<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (16).PNG"/>
-<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (17).PNG"/>
-<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (18).PNG"/>
+ <img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2.png"/>
+<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (1).png"/>
+<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (2).png"/>
+<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (3).png"/>
+<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (4).png"/>
+<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (5).png"/>
+<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (6).png"/>
+<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (7).png"/>
+<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (8).png"/>
+<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (9).png"/>
+<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (10).png"/>
+<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (11).png"/>
+<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (12).png"/>
+<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (13).png"/>
+<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (14).png"/>
+<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (15).png"/>
+<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (16).png"/>
+<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (17).png"/>
+<img src="https://github.com/Nikunjbansal99/RoadPay/blob/main/img/RoadPay EndTerm Minor 2 (18).png"/>
 </p>
 
 
