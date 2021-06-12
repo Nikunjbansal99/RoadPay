@@ -30,7 +30,6 @@
         
         Connection con=GetCon.getCon();
        
-
         
         
         
@@ -39,7 +38,6 @@
         	con = DriverManager.getConnection(url, "system", "root");
         	
         	PreparedStatement ps2=con.prepareStatement("SELECT COUNT (*) FROM trans");
-
         	 ResultSet rs2=ps2.executeQuery();
         	  
         	int transidLessen=0;
@@ -48,8 +46,7 @@
         		 transidLessen=rs2.getInt(1) -10; 
         		 System.out.print( "transid inside loop 46"+ transidLessen  );
         	 }
-
-        	  PreparedStatement ps=con.prepareStatement("Select * from trans where transid > ?");
+        	  PreparedStatement ps=con.prepareStatement("Select * from trans where transid > ? ORDER BY time DESC");
         	  ps.setInt(1,transidLessen);
         	  ResultSet rs=ps.executeQuery();
         	

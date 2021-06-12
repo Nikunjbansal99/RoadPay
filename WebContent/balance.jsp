@@ -8,7 +8,6 @@
     <script type="text/javascript">
         function ctck() {
             var sds = document.getElementById("dum");
-
         }
     </script>
 
@@ -16,7 +15,6 @@
 
 <body>
 <%
-
 long value = (long)request.getAttribute("phone");
 %>
     <main id="main-holder">

@@ -55,7 +55,7 @@ public class VerifyCode extends HttpServlet {
         		else{
         			out.print("Sorry,Registration failed. please try later");
         			System.out.println("57");
-        			RequestDispatcher rd=request.getRequestDispatcher("MyHtml.html");
+        			RequestDispatcher rd=request.getRequestDispatcher("Create.html");
         			rd.include(request, response);
         		}
 

@@ -40,7 +40,7 @@
         	String url ="jdbc:oracle:thin:@localhost:1521:XE";
         	con = DriverManager.getConnection(url, "system", "root");
         	
-        	PreparedStatement ps2=con.prepareStatement("SELECT COUNT (*) FROM trans");
+        	/*PreparedStatement ps2=con.prepareStatement("SELECT COUNT (*) FROM trans");
 
         	 ResultSet rs2=ps2.executeQuery();
         	  
@@ -48,11 +48,11 @@
         	 while(rs2.next()){
         		 
         		 transidLessen=rs2.getInt(1) -3; 
-        		 out.print( "transid inside loop 46"+ transidLessen  );
-        	 }
+        		
+        	 }*/
 
-        	  PreparedStatement ps=con.prepareStatement("Select * from trans where transid > ?");
-        	  ps.setInt(1,transidLessen);
+        	  PreparedStatement ps=con.prepareStatement("Select * from trans ORDER BY time DESC");
+        	 // ps.setInt(1,transidLessen);
         	  ResultSet rs=ps.executeQuery();
         	
         	  
@@ -65,7 +65,7 @@
         	
         	
         	
-        	
+        	int cnt=0;
         	
         	
         	if(rs.next()==false){
@@ -81,6 +81,8 @@
 					 out.print("<th>Balance </th>");
     			 out.print("</tr>");
         		do{
+        			
+        			if(cnt>4) break;
         			//int transid = rs.getInt("transid");        			
         			//long phonee = rs.getLong("phone");     
         			//System.out.println("Record present "+ transid);
@@ -109,7 +111,7 @@
                      out.print("</tr>");
                     
                     
- 				
+ 				cnt++;
         			
         		}while(rs.next());
         		 

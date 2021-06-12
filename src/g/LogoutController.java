@@ -24,7 +24,7 @@ public class LogoutController extends HttpServlet {
       // session.setAttribute("user", null);
       session.removeAttribute("phone");
       session.getMaxInactiveInterval();
-          out.println("thanq you!!, Your session was destroyed successfully!!");
+          out.println("Thank you!!, Your session was destroyed successfully!!");
 			
 
       response.sendRedirect("index.html");
