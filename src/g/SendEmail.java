@@ -81,7 +81,7 @@ public class SendEmail {
 
         String toEmail = user.getEmail();
         final String fromEmail = "roadpayreply@gmail.com";
-        final String password = "hello1234!";
+        final String password = "XXXXXXXXXXX";
         String host = "smtp.gmail.com";
         try {
         	Properties props = new Properties(); 
